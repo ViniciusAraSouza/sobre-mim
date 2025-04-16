@@ -74,7 +74,7 @@ textarea {
 
 /* 10. Estilo de foco acessível (para navegação por teclado) */
 :focus-visible {
-  outline: 2px solid #005fcc;   /* Azul visível, pode ser customizado */
+  outline: 2px solid #cc0000;   /* Azul visível, pode ser customizado */
   outline-offset: 2px;
 }
 
